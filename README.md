@@ -1,6 +1,6 @@
 BOTAI-CHAT
 
-# code-A-Thon Project: 
+## code-A-Thon Project: 
 A ReactJS web application that allows users to chat with an AI model and provide feedback on the responses. The application offers multiple conversation threads, allows for ratings, and provides an easy-to-navigate interface to view past conversations and feedback.
 
 # Features
@@ -12,7 +12,12 @@ A ReactJS web application that allows users to chat with an AI model and provide
 •	Conversation History: Users can revisit past chats and view feedback associated with them.
 •	Feedback Overview: Users can filter and sort feedback based on ratings.
 •	Light/Dark Mode: Users can toggle between light and dark themes.
-•	Responsive Design:: The application is fully responsive, adapting to various screen sizes.
+•	Responsive Design:: The application is fully responsive, adapting to various screen sizes. 
+
+# Screenshot📷
+
+![BOTAI-CHAT](demo.png)
+
 
 # Make sure you have the following installed on your machine:
 
